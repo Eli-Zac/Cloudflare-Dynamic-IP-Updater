@@ -20,7 +20,7 @@ A Python script to automatically update Cloudflare DNS records with your dynamic
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cloudflare-dynamic-ip-updater.git
+git clone https://github.com/Eli-Zac/cloudflare-dynamic-ip-updater.git
 cd cloudflare-dynamic-ip-updater
 ```
 
